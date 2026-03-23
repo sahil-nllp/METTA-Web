@@ -48,7 +48,7 @@ export default function FinalCTA({ onWaitlist }: FinalCTAProps) {
       <footer className="footer">
         <div className="container footer-inner">
           <span className="footer-logo">METTA</span>
-          <span className="footer-copy">© 2025 Metta. All rights reserved.</span>
+          <span className="footer-copy">© 2026 Metta. All rights reserved.</span>
         </div>
       </footer>
     </section>
